@@ -16,7 +16,7 @@ const ProductDetail = () => {
     colors: ['White', 'Black', 'Gray'],
     rating: 4.5,
     reviews: 128,
-    image: '/api/placeholder/500/600',
+    image: 'https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=600',
   };
 
   return (

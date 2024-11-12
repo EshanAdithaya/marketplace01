@@ -12,7 +12,7 @@ const Cart = () => {
       quantity: 1,
       size: 'M',
       color: 'White',
-      image: '/api/placeholder/100/100',
+      image: 'https://images.pexels.com/photos/982585/pexels-photo-982585.jpeg?auto=compress&cs=tinysrgb&w=600',
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ const Cart = () => {
       price: 89.99,
       quantity: 1,
       color: 'Brown',
-      image: '/api/placeholder/100/100',
+      image: 'https://images.pexels.com/photos/2090785/pexels-photo-2090785.jpeg?auto=compress&cs=tinysrgb&w=600',
     },
   ];
 

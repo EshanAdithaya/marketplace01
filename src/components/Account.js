@@ -27,7 +27,7 @@ const Account = () => {
         id: 1,
         name: 'Classic White T-Shirt',
         price: 29.99,
-        image: '/api/placeholder/100/100'
+        image: 'https://images.pexels.com/photos/2112651/pexels-photo-2112651.jpeg?auto=compress&cs=tinysrgb&w=600'
       }
     ]
   };

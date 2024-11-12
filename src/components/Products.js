@@ -12,28 +12,28 @@ const Products = () => {
       name: 'Classic White T-Shirt',
       price: 29.99,
       category: 'clothing',
-      image: '/api/placeholder/300/400',
+      image: 'https://images.pexels.com/photos/1261422/pexels-photo-1261422.jpeg?auto=compress&cs=tinysrgb&w=600',
     },
     {
       id: 2,
       name: 'Leather Crossbody Bag',
       price: 89.99,
       category: 'accessories',
-      image: '/api/placeholder/300/400',
+      image: 'https://images.pexels.com/photos/29336802/pexels-photo-29336802/free-photo-of-cheerful-man-giving-thumbs-up-in-traditional-setting.jpeg?auto=compress&cs=tinysrgb&w=600',
     },
     {
       id: 3,
       name: 'Denim Jeans',
       price: 59.99,
       category: 'clothing',
-      image: '/api/placeholder/300/400',
+      image: 'https://images.pexels.com/photos/1018911/pexels-photo-1018911.jpeg?auto=compress&cs=tinysrgb&w=600',
     },
     {
       id: 4,
       name: 'Silver Watch',
       price: 129.99,
       category: 'accessories',
-      image: '/api/placeholder/300/400',
+      image: 'https://images.pexels.com/photos/29351508/pexels-photo-29351508/free-photo-of-elegant-seiko-automatic-watch-on-display.jpeg?auto=compress&cs=tinysrgb&w=600',
     }
   ];
 

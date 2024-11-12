@@ -155,25 +155,6 @@ const Checkout = () => {
             </div>
           </form>
         </div>
-        {/* <div className="lg:col-span-5 mt-12 lg:mt-0 lg:col-start-8 lg:col-end-13">
-          <div className="bg-gray-50 rounded-lg p-6 lg:p-8">
-            <h2 className="text-lg font-semibold text-gray-900">Order summary</h2>
-            <div className="mt-6 space-y-4">
-              <div className="flex items-center justify-between">
-                <p className="text-sm text-gray-600">Subtotal</p>
-                <p className="text-sm font-semibold text-gray-900">$99.00</p>
-              </div>
-              <div className="flex items-center justify-between">
-                <p className="text-sm text-gray-600">Shipping</p>
-                <p className="text-sm font-semibold text-gray-900">$9.00</p>
-              </div>
-              <div className="flex items-center justify-between border-t border-gray-200 pt-4">
-                <p className="text-base font-semibold text-gray-900">Total</p>
-                <p className="text-base font-semibold text-gray-900">$108.00</p>
-              </div>
-            </div>
-          </div>
-        </div> */}
         </div>
         </div>
     );
