@@ -10,13 +10,17 @@ import Account from './components/Account';
 import NotFound from './components/NotFound';
 
 const App = () => {
+
+  console.log('App component rendered');
   return (
     <Router>
       <div className="min-h-screen bg-white">
         {/* Add debug message */}
-        <div className="bg-yellow-100 p-4 text-center">
+        {/* <div className="bg-yellow-100 p-4 text-center">
           Debug: App Component Loaded
-        </div>
+          
+        </div> */}
+        
         
         <Header />
         
